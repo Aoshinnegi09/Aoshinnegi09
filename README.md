@@ -9,7 +9,6 @@
 </p>
 
 ### 👤 Aoshin Negi
-**Estudiante constantemente algo nuevo**
 
 🎓 B.Tech CSE @ VIT-AP University
 📍 India
@@ -41,7 +40,7 @@ At the moment, I'm focused on strengthening my fundamentals, building complete p
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Aoshinnegi09&theme=algolia&column=4&margin-w=10&margin-h=10&no-frame=true&title=Stars,Commits,Followers,Repositories)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aoshinnegi09&layout=donut&theme=dark&hide_border=true&title_color=4FC3F7&text_color=ffffff&bg_color=0D1B2A)
 
 </div>
 
