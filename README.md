@@ -68,7 +68,7 @@ At the moment, I'm focused on strengthening my fundamentals, building complete p
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **🍔 FoodRush**
 *Full-Stack Food Ordering Platform with Real-Time Analytics*
@@ -80,7 +80,7 @@ At the moment, I'm focused on strengthening my fundamentals, building complete p
 `React` `TypeScript` `Supabase` `PostgreSQL`
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **🎙️ Fundigo**
 *AI-Powered Voice-Enabled Fintech Platform*
@@ -90,6 +90,19 @@ At the moment, I'm focused on strengthening my fundamentals, building complete p
 - Microservices architecture: voice processing, payments, database
 
 `React` `Python` `PostgreSQL` `Docker`
+
+</td>
+<td width="33%" valign="top">
+
+**🧩 SkillMatch**
+*AI-Powered Job Matching Platform with Proctoring*
+
+- Job-matching platform with resume builder and webcam-based proctoring for malpractice detection
+- Tested detection logic across simulated cheating scenarios to reduce false positives
+- Converted the web app to Android using Capacitor 8 for consistent cross-platform behavior
+- Debugged and fixed ~70 TypeScript errors caused by Supabase schema mismatches
+
+`React` `TypeScript` `Supabase` `Capacitor`
 
 </td>
 </tr>
