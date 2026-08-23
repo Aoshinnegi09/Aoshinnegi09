@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/736x/b4/94/37/b49437169e0878cb16a08a732a843d19.jpg" alt="banner" width="280"/>
+<p align="center">
+  <img src="https://i.pinimg.com/736x/b4/94/37/b49437169e0878cb16a08a732a843d19.jpg" alt="banner" width="280"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=500&lines=Turning+data+into+decisions;Building+AI%2FML+%26+full-stack+apps;B.Tech+CSE+%40+VIT-AP+University" alt="typing-svg" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=500&lines=Turning+data+into+decisions;Building+AI%2FML+%26+full-stack+apps;B.Tech+CSE+%40+VIT-AP+University" alt="typing-svg" />
+</p>
 
 ### 👤 Aoshin Negi
 **Estudiante constantemente algo nuevo**
@@ -50,16 +54,9 @@ At the moment, I'm focused on strengthening my fundamentals, building complete p
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=java,python,javascript,html,css,react,docker,postgres,mongodb,mysql,aws&theme=dark)
+![Skills](https://skillicons.dev/icons?i=java,postgres,mysql,nodejs,docker&theme=dark)
 
-</div>
-
-<div align="center">
-
-[![AWS](https://img.shields.io/badge/AWS-1565C0?style=flat-square&logo=amazonaws&logoColor=white)](#)
-[![Tableau](https://img.shields.io/badge/Tableau-0D1B2A?style=flat-square&logo=tableau&logoColor=white)](#)
 [![Power BI](https://img.shields.io/badge/Power_BI-1565C0?style=flat-square&logo=powerbi&logoColor=white)](#)
-[![Superset](https://img.shields.io/badge/Apache_Superset-0D1B2A?style=flat-square&logo=apachesuperset&logoColor=white)](#)
 
 </div>
 
@@ -128,8 +125,7 @@ At the moment, I'm focused on strengthening my fundamentals, building complete p
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Aoshinnegi09&show_icons=true&theme=red&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aoshinnegi09&theme=red&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aoshinnegi09&theme=react-dark&hide_border=true&area=true&title_color=4FC3F7&text_color=ffffff&bg_color=0D1B2A&line=4FC3F7)
 
 </div>
 
