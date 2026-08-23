@@ -9,7 +9,7 @@
 </p>
 
 ### 👤 Aoshin Negi
-
+**Estudiante constantemente algo nuevo**
 
 🎓 B.Tech CSE @ VIT-AP University
 📍 India
@@ -41,10 +41,7 @@ At the moment, I'm focused on strengthening my fundamentals, building complete p
 
 <div align="center">
 
-⚠️ **Caution**
-
-*Code is never finished, it only gets better.*
-*What you see here is built with practice, curiosity, and persistence.*
+![Trophies](https://github-profile-trophy.vercel.app/?username=Aoshinnegi09&theme=algolia&column=4&margin-w=10&margin-h=10&no-frame=true&title=Stars,Commits,Followers,Repositories)
 
 </div>
 
@@ -139,7 +136,6 @@ At the moment, I'm focused on strengthening my fundamentals, building complete p
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Aoshinnegi09&show_icons=true&theme=dark&hide_border=true&title_color=4FC3F7&icon_color=4FC3F7&text_color=ffffff&bg_color=0D1B2A" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aoshinnegi09&theme=dark&hide_border=true&background=0D1B2A&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7" height="165"/>
 
 </div>
 
