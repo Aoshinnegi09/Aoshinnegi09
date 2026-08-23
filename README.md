@@ -38,14 +38,6 @@ At the moment, I'm focused on strengthening my fundamentals, building complete p
 
 ---
 
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aoshinnegi09&layout=donut&theme=dark&hide_border=true&title_color=4FC3F7&text_color=ffffff&bg_color=0D1B2A)
-
-</div>
-
----
-
 ### 🧰 Technical Proficiency
 
 <div align="center">
@@ -134,12 +126,6 @@ At the moment, I'm focused on strengthening my fundamentals, building complete p
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aoshinnegi09&show_icons=true&theme=dark&hide_border=true&title_color=4FC3F7&icon_color=4FC3F7&text_color=ffffff&bg_color=0D1B2A" height="165"/>
-
-</div>
-
-<div align="center">
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aoshinnegi09&theme=react-dark&hide_border=true&area=true&title_color=4FC3F7&text_color=ffffff&bg_color=0D1B2A&line=4FC3F7)
 
 </div>
@@ -147,3 +133,4 @@ At the moment, I'm focused on strengthening my fundamentals, building complete p
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,35:203A43,70:2C5364,100:0F2027&height=120&section=footer)
 
 </div>
+
