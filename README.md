@@ -1,6 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:8B0000,50:B71C1C,100:1a1a1a&height=180&section=header&text=AOSHIN%20NEGI&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=45)
+<img src="https://i.pinimg.com/736x/b4/94/37/b49437169e0878cb16a08a732a843d19.jpg" alt="banner" width="280"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=500&lines=Turning+data+into+decisions;Building+AI%2FML+%26+full-stack+apps;B.Tech+CSE+%40+VIT-AP+University" alt="typing-svg" />
 
 ### 👤 Aoshin Negi
 **Estudiante constantemente algo nuevo**
@@ -8,8 +10,9 @@
 🎓 B.Tech CSE @ VIT-AP University
 📍 India
 
-[![Email](https://img.shields.io/badge/negiaoshin@gmail.com-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:negiaoshin@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![Email](https://img.shields.io/badge/negiaoshin@gmail.com-1565C0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:negiaoshin@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1B2A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aoshin-negi-5b0912341)
+[![GitHub](https://img.shields.io/badge/GITHUB-1565C0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aoshinnegi09)
 
 </div>
 
@@ -17,16 +20,16 @@
 
 ### 🕷️ Who Am I?
 
-I am a **B.Tech Computer Science student** currently building AI/ML models and full-stack, data-driven applications — my own version of swinging between problems and solutions.
+I am a **B.Tech Computer Science student** currently building AI/ML models and full-stack, data-driven applications.
 
-I have a strong passion for **AI/ML and full-stack development**, where logic meets creativity and visual design. I enjoy turning complex data into practical, working interfaces and I'm constantly expanding my toolkit across the development ecosystem.
+I have a strong passion for **AI/ML and full-stack development**. I enjoy turning complex data into practical, working interfaces and I'm constantly expanding my toolkit across the development ecosystem.
 
 At the moment, I'm focused on strengthening my fundamentals, building complete projects from planning and interface design to implementation and delivery — growing my problem-solving skills and technical grip on every project I take on.
 
 <div align="center">
 
-[![Email Me](https://img.shields.io/badge/✉️_EMAIL-8B0000?style=for-the-badge)](mailto:negiaoshin@gmail.com)
-[![Projects](https://img.shields.io/badge/🕸️_PROJECTS-1a1a1a?style=for-the-badge)](#-featured-projects)
+[![Email Me](https://img.shields.io/badge/✉️_EMAIL-1565C0?style=for-the-badge)](mailto:negiaoshin@gmail.com)
+[![Projects](https://img.shields.io/badge/🕸️_PROJECTS-0D1B2A?style=for-the-badge)](#-featured-projects)
 
 </div>
 
@@ -53,10 +56,10 @@ At the moment, I'm focused on strengthening my fundamentals, building complete p
 
 <div align="center">
 
-[![AWS](https://img.shields.io/badge/AWS-8B0000?style=flat-square&logo=amazonaws&logoColor=white)](#)
-[![Tableau](https://img.shields.io/badge/Tableau-1a1a1a?style=flat-square&logo=tableau&logoColor=white)](#)
-[![Power BI](https://img.shields.io/badge/Power_BI-8B0000?style=flat-square&logo=powerbi&logoColor=white)](#)
-[![Superset](https://img.shields.io/badge/Apache_Superset-1a1a1a?style=flat-square&logo=apachesuperset&logoColor=white)](#)
+[![AWS](https://img.shields.io/badge/AWS-1565C0?style=flat-square&logo=amazonaws&logoColor=white)](#)
+[![Tableau](https://img.shields.io/badge/Tableau-0D1B2A?style=flat-square&logo=tableau&logoColor=white)](#)
+[![Power BI](https://img.shields.io/badge/Power_BI-1565C0?style=flat-square&logo=powerbi&logoColor=white)](#)
+[![Superset](https://img.shields.io/badge/Apache_Superset-0D1B2A?style=flat-square&logo=apachesuperset&logoColor=white)](#)
 
 </div>
 
@@ -130,6 +133,6 @@ At the moment, I'm focused on strengthening my fundamentals, building complete p
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=venom&color=0:1a1a1a,50:B71C1C,100:8B0000&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,35:203A43,70:2C5364,100:0F2027&height=120&section=footer)
 
 </div>
